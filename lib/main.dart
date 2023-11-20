@@ -5,13 +5,15 @@ import 'wgt_map_station_selector.dart';
 import 'wgt_smrt_logo.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return const MaterialApp(
       title: "Test",
       home: TestPage(),
     );
@@ -19,10 +21,12 @@ class MyApp extends StatelessWidget {
 }
 
 class TestPage extends StatelessWidget {
+  const TestPage({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text("Test")),
+      appBar: AppBar(title: const Text("Test")),
       body: Container(
         child: Center(
           child: WgtMrtLogo(

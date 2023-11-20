@@ -75,9 +75,9 @@ class _WgtMapStationState extends State<WgtMapStation> {
                 isDismissible: true,
                 context: context,
                 backgroundColor: Theme.of(context).colorScheme.background,
-                builder: (context) => Container(
+                builder: (context) => SizedBox(
                   height: 300,
-                  child: Text('${_name}'),
+                  child: Text(_name),
                 ),
                 enableDrag: true,
                 // isScrollControlled: true,
