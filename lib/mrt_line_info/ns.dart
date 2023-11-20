@@ -159,6 +159,6 @@ final List<Map<String, dynamic>> stationsNS = [
     'code': 'NS28',
     'name': 'Marina South Pier',
     'site_tag': 'smrt_marina_south_pier',
-    'coord': [-0.341, 0.110],
+    'coord': [-0.341, 0.180],
   },
 ];
