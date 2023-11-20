@@ -12,6 +12,30 @@ const List<Map<String, dynamic>> stationsEW = [
     'coord': [0.364, -0.145],
   },
   {
+    'code': 'EW3',
+    'name': 'Simei',
+    'site_tag': 'smrt_simei',
+    'coord': [0.364, -0.145],
+  },
+  {
+    'code': 'EW4',
+    'name': 'Simei',
+    'site_tag': 'smrt_simei',
+    'coord': [0.364, -0.145],
+  },
+  {
+    'code': 'EW5',
+    'name': 'Simei',
+    'site_tag': 'smrt_simei',
+    'coord': [0.364, -0.145],
+  },
+  {
+    'code': 'EW6',
+    'name': 'Simei',
+    'site_tag': 'smrt_simei',
+    'coord': [0.364, -0.145],
+  },
+  {
     'code': 'EW19',
     'name': 'Queenstown',
     'site_tag': 'smrt_queenstown',
