@@ -141,24 +141,24 @@ final List<Map<String, dynamic>> stationsNS = [
     'code': 'NS25',
     'name': 'City Hall',
     'site_tag': 'smrt_city_hall',
-    'coord': [-0.341, 0.110],
+    'coord': [0.015, 0.285],
   },
   {
     'code': 'NS26',
     'name': 'Raffles Place',
     'site_tag': 'smrt_raffles_place',
-    'coord': [-0.341, 0.110],
+    'coord': [0.015, 0.340],
   },
   {
     'code': 'NS27',
     'name': 'Marina Bay',
     'site_tag': 'smrt_marina_bay',
-    'coord': [-0.341, 0.110],
+    'coord': [0.030, 0.400],
   },
   {
     'code': 'NS28',
     'name': 'Marina South Pier',
     'site_tag': 'smrt_marina_south_pier',
-    'coord': [-0.341, 0.110],
+    'coord': [0.060, 0.440],
   },
 ];

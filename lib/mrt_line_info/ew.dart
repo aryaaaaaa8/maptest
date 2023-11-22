@@ -21,19 +21,19 @@ const List<Map<String, dynamic>> stationsEW = [
     'code': 'EW4',
     'name': 'Tanah Merah',
     'site_tag': 'smrt_tanah_merah',
-    'coord': [0.364, -0.145],
+    'coord': [0.364, -0.065],
   },
   {
     'code': 'EW5',
     'name': 'Bedok',
     'site_tag': 'smrt_bedok',
-    'coord': [0.364, -0.145],
+    'coord': [0.330, -0.055],
   },
   {
     'code': 'EW6',
     'name': 'Kembangan',
     'site_tag': 'smrt_kembangan',
-    'coord': [0.364, -0.145],
+    'coord': [0.285, -0.055],
   },
   {
     'code': 'EW7',
