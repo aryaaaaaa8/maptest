@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:maptest/mrt_line_info/CC.dart';
+// import 'package:maptest/mrt_line_info/CG.dart';
 import 'package:xt_ui/xt_ui.dart';
 
 import 'mrt_line_info/ew.dart';
@@ -97,6 +99,16 @@ class _WgtMapStationSelectorState extends State<WgtMapStationSelector> {
         ),
       );
     }
+    for (var station in stationsCC) {
+      stations.add(
+        WgtMapStation(
+          xoffset: _width * station['coord'][0],
+          yoffset: _height * station['coord'][1],
+          stationInfo: station,
+        ),
+      );
+    }
+
     return stations;
   }
 }

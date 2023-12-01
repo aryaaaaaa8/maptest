@@ -45,7 +45,7 @@ const List<Map<String, dynamic>> stationsEW = [
     'code': 'EW8',
     'name': 'Paya Lebar',
     'site_tag': 'smrt_paya_lebar',
-    'coord': [0.185, 0.065],
+    'coord': [0.170, 0.070],
   },
   {
     'code': 'EW9',
@@ -196,5 +196,17 @@ const List<Map<String, dynamic>> stationsEW = [
     'name': 'Tuas Link',
     'site_tag': 'smrt_tuas_link',
     'coord': [-0.447, -0.160],
+  },
+  {
+    'code': 'CG1',
+    'name': 'Expo',
+    'site_tag': 'smrt_expo',
+    'coord': [0.394, -0.005],
+  },
+  {
+    'code': 'CG2',
+    'name': 'Changi Airport',
+    'site_tag': 'smrt_changi_airport',
+    'coord': [0.458, -0.005],
   },
 ];

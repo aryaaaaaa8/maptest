@@ -45,6 +45,8 @@ class _WgtMapStationState extends State<WgtMapStation> {
       return Colors.brown;
     } else if (_code.contains('CG')) {
       return Colors.green;
+    } else if (_code.contains('CE')) {
+      return Colors.orange;
     } else {
       return Colors.grey;
     }
