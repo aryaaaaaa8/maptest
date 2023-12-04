@@ -123,7 +123,7 @@ const List<Map<String, dynamic>> stationsEW = [
     'code': 'EW21',
     'name': 'Buona Vista',
     'site_tag': 'smrt_buona_vista',
-    'coord': [-0.225, 0.134],
+    'coord': [-0.225, 0.145],
   },
   {
     'code': 'EW22',
