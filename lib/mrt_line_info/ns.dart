@@ -45,7 +45,7 @@ final List<Map<String, dynamic>> stationsNS = [
     'code': 'NS9',
     'name': 'Woodlands',
     'site_tag': 'smrt_woodlands',
-    'coord': [-0.250, -0.376],
+    'coord': [-0.245, -0.360],
   },
   {
     'code': 'NS10',
