@@ -114,7 +114,7 @@ const List<Map<String, dynamic>> stationsTE = [
     'coord': [0.057, 0.400],
   },
   {
-    'code': 'TE21',
+    'code': 'TE22',
     'name': 'Gardens by the Bay',
     'site_tag': 'smrt_gardens_by_the_bay',
     'coord': [0.173, 0.365],
