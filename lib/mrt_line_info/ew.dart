@@ -1,4 +1,4 @@
-const List<Map<String, dynamic>> stationsEW = [
+final List<Map<String, dynamic>> stationsEW = [
   {
     'code': 'EW1',
     'name': 'Pasir Ris',
